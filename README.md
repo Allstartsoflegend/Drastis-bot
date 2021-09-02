@@ -20,15 +20,12 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 - [Cara Setting GDrive modules](https://telegra.ph/How-To-Setup-Google-Drive-04-03)
 - [Cara Setting Last.FM modules](https://telegra.ph/How-to-set-up-LastFM-module-for-Paperplane-userbot-11-02)
 
-### Generate String Session
-[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://repl.it/@mrismanaziz/stringenSession?lite=1&outputonly=1)
-
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/tofikdn/Man-Userbot"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Allstartsoflegend/Drastis-bot"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 
 ## Updates dan support
 
-Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Man-Userbot.
+Follow Channel [@captionanakmuda](https://t.me/humangabutguys) Masuk Grup Dan Tanyakan Apabila Kurang Paham Tentang Bot Ini!
 
 ## Credits
 Thanks For all :
@@ -47,6 +44,7 @@ Thanks For all :
 *   [Kampang-Bot](https://github.com/ManusiaRakitan/Kampang-Bot) - Koala
 *   [X-REMIX](https://github.com/ximfine) -  X_ImFine
 *   [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot) -  Risman
+*   [Drastis-bot](https://github.com/Allstartsoflegend/Drastis-bot) - Biasalah
 
 ## License
-Licensed under [Raphielscape Public License](https://github.com/mrismanaziz/Man-Userbot/blob/Man-Userbot/LICENSE) - Version 1.d, February 2020
+Licensed under [Raphielscape Public License](https://github.com/Allstartsoflegend/Drastis-bot/blob/Drastis-bot/LICENSE) - Version 1.d, February 2020
